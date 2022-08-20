@@ -2,7 +2,7 @@
 <a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=phamhuuloc&color=orange">
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-👨 My name is Jayson Nguyen and I'm a junior studying information system at UIT. I'm from Vietnam and my goal is to become a FullStack Developer.
+👨 My name is Jayson Nguyen and I'm a junior studying information system at HUFLIT. I'm from Vietnam and my goal is to become a FullStack Developer.
 
 # Program language
 <p align="left"> 
